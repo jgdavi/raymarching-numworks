@@ -1,6 +1,8 @@
 # Raymarching for Numworks
 A small raymarching engine for Numworks.
 
+![Screenshot](docs/image.png)
+
 ### Use
 1. Go to https://my.numworks.com/python/jgdavid/raymarching
 2. Plug your calculator in
